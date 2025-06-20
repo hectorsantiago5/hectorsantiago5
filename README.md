@@ -1,8 +1,28 @@
-- 👋 Hello, I’m Hector Santiago!
-- 👀 I’m interested in software 💻, Hackathons 🧑‍💻, video games 🎮, and music 🎵
-- 🌱 I’m currently learning Javascript & Django
-- 💞️ I’m looking to collaborate on Javascript or Python focused projects
-- 📫 How to reach me -> hector.m.santiagoIII@gmail.com 📩, @hecsantiago 🌄
+# 👋 Hello, I'm **Hector Santiago**
+
+> 🧠 _Code. Create. Collaborate._
+
+---
+
+### 💡 About Me
+- 💻 Passionate about **software development**
+- 🧑‍💻 Frequent **hackathon hacker**
+- 🎮 Gamer, 🎵 Music enthusiast
+
+### 🚀 Currently Learning
+- **JavaScript** & **Django**
+
+### 🤝 Looking to Collaborate On
+- Projects focused in **JavaScript** or **Python**
+
+---
+
+### 📫 Reach Out
+- ✉️ `hector.m.santiagoIII@gmail.com`
+- 🌄 @hecsantiago
+
+---
+🛠️ _Let's build something awesome together!_
 
 <!---
 hectorsantiago5/hectorsantiago5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
