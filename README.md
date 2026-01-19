@@ -18,6 +18,7 @@ I enjoy working with technology and learning how things work. I like building so
 - Open source work where I can learn and contribute meaningfully  
 
 ## Contact
+- LinkedIn: [@hmsiii](https://www.linkedin.com/in/hmsiii/)
 - Email: [hector.m.santiagoiii@gmail.com](mailto:hector.m.santiagoiii@gmail.com) 
 - X: [@hecsantiago3](https://x.com/hecsantiago3)
 - Substack: [@hsm3](https://substack.com/@hsm3?utm_campaign=profile&utm_medium=profile-page)
